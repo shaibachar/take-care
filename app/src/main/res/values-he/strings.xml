@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">קח תרופה</string>
+    <string name="add_medication">הוסף תרופה</string>
+    <string name="edit_medication">ערוך תרופה</string>
+    <string name="name">שם</string>
+    <string name="description">תיאור</string>
+    <string name="reason">סיבה</string>
+    <string name="daily_dose">מספר יומי</string>
+    <string name="start_quantity">כמות התחלתית</string>
+    <string name="save">שמור</string>
+    <string name="delete">מחק</string>
+    <string name="disable">בטל</string>
+</resources>
